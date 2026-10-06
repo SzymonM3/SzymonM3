@@ -11,3 +11,13 @@ I'm building practical projects in my homelab to develop hands-on skills in Linu
 - Networking and infrastructure
 - HTTP and APIs
 - Backend development
+
+## Featured projects
+
+### [Homelab](https://github.com/SzymonM3/homelab)
+
+A self-hosted Linux environment built on Debian for learning system administration, networking, storage, monitoring and web services.
+
+### [Home Network](https://github.com/SzymonM3/home-network)
+
+A documented home network infrastructure project covering structured Ethernet cabling, rack infrastructure, routing, switching, Wi-Fi access points and IP addressing.
