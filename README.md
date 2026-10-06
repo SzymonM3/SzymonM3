@@ -29,3 +29,7 @@ A documented home network infrastructure project covering structured Ethernet ca
 - **Services:** SSH, Samba, Nginx, Netdata
 - **Programming:** Python
 - **Tools:** Git, GitHub
+
+## Learning path
+
+Python → Linux → Automation → HTTP / APIs → FastAPI → SQL / PostgreSQL → Docker → CI/CD → Cloud / DevOps
