@@ -21,3 +21,11 @@ A self-hosted Linux environment built on Debian for learning system administrati
 ### [Home Network](https://github.com/SzymonM3/home-network)
 
 A documented home network infrastructure project covering structured Ethernet cabling, rack infrastructure, routing, switching, Wi-Fi access points and IP addressing.
+
+## Technologies
+
+- **Linux:** Debian
+- **Networking:** TCP/IP, DHCP, DNS, routing, NAT, Ethernet
+- **Services:** SSH, Samba, Nginx, Netdata
+- **Programming:** Python
+- **Tools:** Git, GitHub
